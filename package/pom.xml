@@ -8,7 +8,7 @@
         <artifactId>multimodule</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>package</artifactId>
+    <artifactId>multimodule.package</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>ear</packaging>
 

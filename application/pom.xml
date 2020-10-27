@@ -6,7 +6,7 @@
         <artifactId>multimodule</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>sample.multimodule.application</artifactId>
+    <artifactId>multimodule.application</artifactId>
     <packaging>war</packaging>
     <name>Project Module - Application</name>
     <description>This is the main module of the project. It contains Application.java class, that contains main method, 
